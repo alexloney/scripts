@@ -1,0 +1,46 @@
+# Start new TMUX session with name
+tmux new -s HTB
+
+# Create new window
+CTRL+B + C
+
+# Switch window
+CTRL+B + # (window number)
+
+# Detach from a tmux session
+CTRL+B + D
+
+# Rename pane
+CTRL+B + ,
+
+# Enter scroll mode
+CTRL+B + [
+
+# Split vertically
+CTRL+B + %
+
+# Split horizonal
+CTRL+B + "
+
+# Zoom into a single window
+CTRL+B + Z
+
+# Resize window
+CTRL+B (hold) + Arrow Keys
+
+# Move window
+CTRL+B + {
+CTRL+B + }
+
+# Change layout
+CTRL+B + <SPACE>
+
+## Logging Plugin
+### Toggle (start/stop logging)
+CTRL+B + SHIFT + P
+
+### "Screen Capture (Save visible text)
+CTRL+B + ALT + P
+
+### Save complete history
+CTRL+B + ALT + SHIFT + P
