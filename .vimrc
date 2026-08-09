@@ -33,6 +33,11 @@ set showcmd               " Show partial commands
 syntax enable             " Enable syntax highlighting
 set background=dark       " Dark background
 " colorscheme desert        " Built-in colorscheme (no plugins needed)
+" colorscheme elflord       " Built-in colorscheme (no plugins needed)
+" colorscheme evening       " Built-in colorscheme (no plugins needed)
+" colorscheme pablo       " Built-in colorscheme (no plugins needed)
+" colorscheme wildcharm       " Built-in colorscheme (no plugins needed)
+colorscheme zaibatsu       " Built-in colorscheme (no plugins needed)
 
 " --- Search ---
 set hlsearch              " Highlight search results
